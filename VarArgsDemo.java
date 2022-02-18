@@ -41,3 +41,20 @@ public class VarArgsDemo {
         obj_aw.add1(1,2,3,4,5);
     }
 }
+/*
+****WITH VARARGS*****
+No. of Numbers to add: 2
+Sum is: 3
+No. of Numbers to add: 4
+Sum is: 1025
+No. of Numbers to add: 5
+Sum is: 981839
+No. of Numbers to add: 7
+Sum is: 359
+No. of Numbers to add: 10
+Sum is: 55
+****WITHOUT VARARGS*****
+Sum is: 5
+Sum is: 15
+Sum is: 15
+ */
